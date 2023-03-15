@@ -1,0 +1,17 @@
+Done 100%
+
+zad. 1
+Program has exactly the same output as tr in linux.
+Run make test to see how it works.
+
+zad. 2
+Program works as expected. Version with buffer size 1 is slower than version with buffer size 1024.
+Run make test to see how it works.
+
+zad. 3
+Program has similar output as wc --bytes *.
+Run make all to see how it works.
+
+zad. 4
+Program has similar output as find <dir> | xargs wc --bytes.
+Run make all to see how it works.
