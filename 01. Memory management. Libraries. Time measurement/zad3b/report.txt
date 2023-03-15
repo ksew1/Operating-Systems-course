@@ -1,0 +1,763 @@
+####################### STATIC O0 ##############################
+COMMAND: init 3
+EXECUTION TIME:
+REAL: 20899ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./main.c
+EXECUTION TIME:
+REAL: 1058597ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.c
+EXECUTION TIME:
+REAL: 985911ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.h
+EXECUTION TIME:
+REAL: 1038979ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 0
+Number of lines: 120
+Number of words: 362
+Number of characters: 3666
+File name: ./main.c
+
+EXECUTION TIME:
+REAL: 1252ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 1
+Number of lines: 97
+Number of words: 277
+Number of characters: 3016
+File name: ./mylib.c
+
+EXECUTION TIME:
+REAL: 832ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 2
+Number of lines: 28
+Number of words: 56
+Number of characters: 582
+File name: ./mylib.h
+
+EXECUTION TIME:
+REAL: 751ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 2
+EXECUTION TIME:
+REAL: 531ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 1
+EXECUTION TIME:
+REAL: 461ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 0
+EXECUTION TIME:
+REAL: 451ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: destroy
+EXECUTION TIME:
+REAL: 481ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: exit
+
+####################### STATIC O2 ##############################
+COMMAND: init 3
+EXECUTION TIME:
+REAL: 3237796ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./main.c
+EXECUTION TIME:
+REAL: 14670850ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.c
+EXECUTION TIME:
+REAL: 1818192ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.h
+EXECUTION TIME:
+REAL: 12885854ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 0
+Number of lines: 120
+Number of words: 362
+Number of characters: 3666
+File name: ./main.c
+
+EXECUTION TIME:
+REAL: 2405ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 1
+Number of lines: 97
+Number of words: 277
+Number of characters: 3016
+File name: ./mylib.c
+
+EXECUTION TIME:
+REAL: 862ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 2
+Number of lines: 28
+Number of words: 56
+Number of characters: 582
+File name: ./mylib.h
+
+EXECUTION TIME:
+REAL: 791ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 2
+EXECUTION TIME:
+REAL: 511ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 1
+EXECUTION TIME:
+REAL: 431ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 0
+EXECUTION TIME:
+REAL: 461ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: destroy
+EXECUTION TIME:
+REAL: 481ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: exit
+
+####################### STATIC Os ##############################
+COMMAND: init 3
+EXECUTION TIME:
+REAL: 20889ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./main.c
+EXECUTION TIME:
+REAL: 1054299ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.c
+EXECUTION TIME:
+REAL: 1088353ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.h
+EXECUTION TIME:
+REAL: 980490ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 0
+Number of lines: 120
+Number of words: 362
+Number of characters: 3666
+File name: ./main.c
+
+EXECUTION TIME:
+REAL: 1242ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 1
+Number of lines: 97
+Number of words: 277
+Number of characters: 3016
+File name: ./mylib.c
+
+EXECUTION TIME:
+REAL: 832ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 2
+Number of lines: 28
+Number of words: 56
+Number of characters: 582
+File name: ./mylib.h
+
+EXECUTION TIME:
+REAL: 771ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 2
+EXECUTION TIME:
+REAL: 551ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 1
+EXECUTION TIME:
+REAL: 471ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 0
+EXECUTION TIME:
+REAL: 491ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: destroy
+EXECUTION TIME:
+REAL: 491ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: exit
+
+####################### SHARED O0 ##############################
+
+COMMAND: init 3
+EXECUTION TIME:
+REAL: 43401ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./main.c
+EXECUTION TIME:
+REAL: 5161235ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.c
+EXECUTION TIME:
+REAL: 1904634ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.h
+EXECUTION TIME:
+REAL: 4199912ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 0
+Number of lines: 120
+Number of words: 362
+Number of characters: 3666
+File name: ./main.c
+
+EXECUTION TIME:
+REAL: 40436ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 1
+Number of lines: 97
+Number of words: 277
+Number of characters: 3016
+File name: ./mylib.c
+
+EXECUTION TIME:
+REAL: 1473ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 2
+Number of lines: 28
+Number of words: 56
+Number of characters: 582
+File name: ./mylib.h
+
+EXECUTION TIME:
+REAL: 772ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 2
+EXECUTION TIME:
+REAL: 651ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 1
+EXECUTION TIME:
+REAL: 461ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 0
+EXECUTION TIME:
+REAL: 481ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: destroy
+EXECUTION TIME:
+REAL: 511ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: exit
+
+####################### SHARED O2 ##############################
+COMMAND: init 3
+EXECUTION TIME:
+REAL: 468090ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./main.c
+EXECUTION TIME:
+REAL: 1433540ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.c
+EXECUTION TIME:
+REAL: 2337236ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.h
+EXECUTION TIME:
+REAL: 2963241ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 0
+Number of lines: 120
+Number of words: 362
+Number of characters: 3666
+File name: ./main.c
+
+EXECUTION TIME:
+REAL: 2013ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 1
+Number of lines: 97
+Number of words: 277
+Number of characters: 3016
+File name: ./mylib.c
+
+EXECUTION TIME:
+REAL: 1193ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 2
+Number of lines: 28
+Number of words: 56
+Number of characters: 582
+File name: ./mylib.h
+
+EXECUTION TIME:
+REAL: 761ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 2
+EXECUTION TIME:
+REAL: 531ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 1
+EXECUTION TIME:
+REAL: 451ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 0
+EXECUTION TIME:
+REAL: 461ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: destroy
+EXECUTION TIME:
+REAL: 601ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: exit
+
+####################### SHARED Os ##############################
+COMMAND: init 3
+EXECUTION TIME:
+REAL: 20819ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./main.c
+EXECUTION TIME:
+REAL: 1089775ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.c
+EXECUTION TIME:
+REAL: 991340ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.h
+EXECUTION TIME:
+REAL: 1077072ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 0
+Number of lines: 120
+Number of words: 362
+Number of characters: 3666
+File name: ./main.c
+
+EXECUTION TIME:
+REAL: 1232ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 1
+Number of lines: 97
+Number of words: 277
+Number of characters: 3016
+File name: ./mylib.c
+
+EXECUTION TIME:
+REAL: 832ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 2
+Number of lines: 28
+Number of words: 56
+Number of characters: 582
+File name: ./mylib.h
+
+EXECUTION TIME:
+REAL: 761ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 2
+EXECUTION TIME:
+REAL: 551ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 1
+EXECUTION TIME:
+REAL: 441ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 0
+EXECUTION TIME:
+REAL: 461ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: destroy
+EXECUTION TIME:
+REAL: 471ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: exit
+
+####################### DYNAMIC O0 ##############################
+COMMAND: init 3
+EXECUTION TIME:
+REAL: 571262ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./main.c
+EXECUTION TIME:
+REAL: 1510815ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.c
+EXECUTION TIME:
+REAL: 4526645ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.h
+EXECUTION TIME:
+REAL: 1502420ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 0
+Number of lines: 120
+Number of words: 362
+Number of characters: 3666
+File name: ./main.c
+
+EXECUTION TIME:
+REAL: 1954ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 1
+Number of lines: 97
+Number of words: 277
+Number of characters: 3016
+File name: ./mylib.c
+
+EXECUTION TIME:
+REAL: 922ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 2
+Number of lines: 28
+Number of words: 56
+Number of characters: 582
+File name: ./mylib.h
+
+EXECUTION TIME:
+REAL: 791ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 2
+EXECUTION TIME:
+REAL: 541ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 1
+EXECUTION TIME:
+REAL: 561ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 0
+EXECUTION TIME:
+REAL: 491ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: destroy
+EXECUTION TIME:
+REAL: 511ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: exit
+
+####################### DYNAMIC O2 ##############################
+COMMAND: init 3
+EXECUTION TIME:
+REAL: 737244ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./main.c
+EXECUTION TIME:
+REAL: 1888817ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.c
+EXECUTION TIME:
+REAL: 4277487ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.h
+EXECUTION TIME:
+REAL: 2069291ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 0
+Number of lines: 120
+Number of words: 362
+Number of characters: 3666
+File name: ./main.c
+
+EXECUTION TIME:
+REAL: 1933ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 1
+Number of lines: 97
+Number of words: 277
+Number of characters: 3016
+File name: ./mylib.c
+
+EXECUTION TIME:
+REAL: 852ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 2
+Number of lines: 28
+Number of words: 56
+Number of characters: 582
+File name: ./mylib.h
+
+EXECUTION TIME:
+REAL: 762ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 2
+EXECUTION TIME:
+REAL: 501ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 1
+EXECUTION TIME:
+REAL: 451ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 0
+EXECUTION TIME:
+REAL: 471ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: destroy
+EXECUTION TIME:
+REAL: 561ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: exit
+####################### DYNAMIC Os ##############################
+COMMAND: init 3
+EXECUTION TIME:
+REAL: 19797ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./main.c
+EXECUTION TIME:
+REAL: 1218426ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.c
+EXECUTION TIME:
+REAL: 1760023ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.h
+EXECUTION TIME:
+REAL: 1431436ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 0
+Number of lines: 120
+Number of words: 362
+Number of characters: 3666
+File name: ./main.c
+
+EXECUTION TIME:
+REAL: 2916ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 1
+Number of lines: 97
+Number of words: 277
+Number of characters: 3016
+File name: ./mylib.c
+
+EXECUTION TIME:
+REAL: 842ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 2
+Number of lines: 28
+Number of words: 56
+Number of characters: 582
+File name: ./mylib.h
+
+EXECUTION TIME:
+REAL: 771ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 2
+EXECUTION TIME:
+REAL: 541ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 1
+EXECUTION TIME:
+REAL: 591ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 0
+EXECUTION TIME:
+REAL: 461ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: destroy
+EXECUTION TIME:
+REAL: 481ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: exit
+
+####################### RESULTS ##############################
+Programs with the flag -O0 are slower than programs with the flag -O2 and -Os.
+The program with the flag -O2 is faster than the program with the flag -Os.
+The program with the flag -O2 is faster than the program with the flag -O0.
+The program with the flag -Os is faster than the program with the flag -O0.
+
+

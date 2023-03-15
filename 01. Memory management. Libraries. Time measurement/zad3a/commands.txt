@@ -1,0 +1,12 @@
+init 3
+count ./main.c
+count ./mylib.c
+count ./mylib.h
+show 0
+show 1
+show 2
+delete index 2
+delete index 1
+delete index 0
+destroy
+exit

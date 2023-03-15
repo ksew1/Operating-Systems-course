@@ -1,0 +1,82 @@
+COMMAND: init 3
+EXECUTION TIME:
+REAL: 85180ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./main.c
+EXECUTION TIME:
+REAL: 1324073ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.c
+EXECUTION TIME:
+REAL: 1198442ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: count ./mylib.h
+EXECUTION TIME:
+REAL: 1128187ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 0
+Number of lines: 120
+Number of words: 362
+Number of characters: 3666
+File name: ./main.c
+
+EXECUTION TIME:
+REAL: 1372ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 1
+Number of lines: 98
+Number of words: 277
+Number of characters: 3017
+File name: ./mylib.c
+
+EXECUTION TIME:
+REAL: 791ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: show 2
+Number of lines: 28
+Number of words: 56
+Number of characters: 582
+File name: ./mylib.h
+
+EXECUTION TIME:
+REAL: 751ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 2
+EXECUTION TIME:
+REAL: 531ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 1
+EXECUTION TIME:
+REAL: 451ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: delete index 0
+EXECUTION TIME:
+REAL: 461ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: destroy
+EXECUTION TIME:
+REAL: 481ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+COMMAND: exit
